@@ -156,14 +156,7 @@
 #social h1{
 	padding-bottom: 30px;
 }
-#map
-{
-	padding-top:20px;
-	
-}
-#map h1{
-	padding-bottom: 20px;
-}
+
 .social-col a:hover img{
 transform: translateY(-10px);
 }
